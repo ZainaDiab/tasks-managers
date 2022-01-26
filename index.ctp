@@ -63,5 +63,4 @@ $(document).ready(function() {
     $('#tasks').DataTable();
 } );
 
-
 </script>

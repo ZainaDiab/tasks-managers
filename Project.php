@@ -2,7 +2,6 @@
 
 class Project extends AppModel {
 
-
 }
 
 

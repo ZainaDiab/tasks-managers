@@ -8,7 +8,6 @@
         'password'=>array('label'=>'password', 'placeholder'=>__('please type password'), 'class'=>'input-lg form-control', 'maxlength' => '40','tabindex' => '2'),
       ));
 
-
     echo $this->Form->submit('Login');
 
 

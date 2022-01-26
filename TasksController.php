@@ -2,9 +2,6 @@
 
 class TasksController extends AppController{
 
-    var $components = array('Paginator');
-
-
   public function index(){
    
  

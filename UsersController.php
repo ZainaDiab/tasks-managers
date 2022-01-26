@@ -4,7 +4,6 @@ class UsersController extends AppController
 {
     public $helpers = array('Html','Form');
 
-
     public function index(){
         $users = $this->User->find('all');
        
@@ -32,7 +31,7 @@ class UsersController extends AppController
                  }
             }
         }
-       pr($users);
+       pr($users); exit;
     
     }
 

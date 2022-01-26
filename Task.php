@@ -2,7 +2,6 @@
 
 class Task extends AppModel {
 
-
 }
 
 
